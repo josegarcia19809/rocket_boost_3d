@@ -1,18 +1,14 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Using Input Actions
+Rocket Boost 3D: Using AddRelativeForce()
 
 
 Fecha de creación: 6 diciembre 2025
 
 Sábado 6 diciembre 2025
+Sábado 13 diciembre 2025
 
 
-Namespaces & Classes
-08:52
-
-10:03
-Using AddRelativeForce()
 14:44
 Rotation Input
 09:06
