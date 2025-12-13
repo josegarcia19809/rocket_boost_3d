@@ -1,8 +1,74 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Inicio
+Rocket Boost 3D: Using Input Actions
 
 
 Fecha de creación: 6 diciembre 2025
 
 Sábado 6 diciembre 2025
+
+
+Namespaces & Classes
+08:52
+
+10:03
+Using AddRelativeForce()
+14:44
+Rotation Input
+09:06
+Rotate The Rocket
+13:40
+Cinemachine Follow Camera
+06:04
+Rigidbody Tuning
+12:54
+Unity Audio Introduction
+07:47
+Play AudioSource SFX
+06:55
+Switch Statements
+10:16
+Respawn Using SceneManager
+07:38
+Load Next Scene
+10:43
+Using Invoke()
+11:57
+Code Layout
+03:01
+Multiple Audio Clips
+08:50
+Bool Variable For State
+10:59
+Intro To Particles
+14:45
+Trigger Booster Particles
+12:30
+Refactor Our Methods
+06:02
+Respond To Debug Keys
+10:13
+Assets & Colliders
+10:53
+Create A Level Layout
+11:08
+Quick Game Tuning
+06:34
+Set Dressing Your Level
+12:22
+Intro To Post Processing
+06:25
+How To Add Lights In Unity
+14:54
+A Quick Note About Prefabbing
+09:10
+Oscillating Object Script
+14:55
+Quit Application Script
+03:20
+Design Ideas
+06:33
+How To Build & Share Your Game
+07:28
+Wrap Up - Rocket Boost
+03:57
