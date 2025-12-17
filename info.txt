@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Rotate The Rocket
+Rocket Boost 3D: Rigidbody Tuning
 
 
 Fecha de creación: 6 diciembre 2025
@@ -8,12 +8,9 @@ Fecha de creación: 6 diciembre 2025
 Sábado 6 diciembre 2025
 Sábado 13 diciembre 2025
 Martes 16 diciembre 2025
+Miércoles 17 diciembre 2025
 
 
-13:40
-Cinemachine Follow Camera
-06:04
-Rigidbody Tuning
 12:54
 Unity Audio Introduction
 07:47
