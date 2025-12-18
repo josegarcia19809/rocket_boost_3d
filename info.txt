@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Rigidbody Tuning
+Rocket Boost 3D: Play AudioSource SFX
 
 
 Fecha de creación: 6 diciembre 2025
@@ -14,7 +14,7 @@ Miércoles 17 diciembre 2025
 12:54
 Unity Audio Introduction
 07:47
-Play AudioSource SFX
+
 06:55
 Switch Statements
 10:16
