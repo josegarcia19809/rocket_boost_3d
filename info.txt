@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Switch Statements
+Rocket Boost 3D: Respawn Using SceneManager
 
 
 Fecha de creación: 6 diciembre 2025
@@ -12,10 +12,6 @@ Miércoles 17 diciembre 2025
 Jueves 18 diciembre 2025
 
 
-
-10:16
-Respawn Using SceneManager
-07:38
 Load Next Scene
 10:43
 Using Invoke()

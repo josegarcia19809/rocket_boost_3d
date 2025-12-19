@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CollisionHandler : MonoBehaviour
 {
@@ -17,7 +18,14 @@ public class CollisionHandler : MonoBehaviour
                 print("Fuel");
                 break;
             default:
+                ReloadScene();
                 break;
         }
+    }
+
+    void ReloadScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex);
     }
 }
