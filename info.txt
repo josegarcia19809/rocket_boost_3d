@@ -1,7 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Using Invoke()
-
+Rocket Boost 3D: Multiple Audio Clips
 
 Fecha de creación: 6 diciembre 2025
 
@@ -13,10 +12,6 @@ Jueves 18 diciembre 2025
 Domingo 21 diciembre 2025
 Lunes 22 diciembre 2025
 
-Code Layout
-03:01
-Multiple Audio Clips
-08:50
 Bool Variable For State
 10:59
 Intro To Particles
