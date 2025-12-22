@@ -12,7 +12,7 @@ public class CollisionHandler : MonoBehaviour
                 print("Friendly");
                 break;
             case "Finish":
-                print("Finish");
+                LoadNextScene();
                 break;
             case "Fuel":
                 print("Fuel");
@@ -27,5 +27,18 @@ public class CollisionHandler : MonoBehaviour
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex);
+    }
+
+    void LoadNextScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        if (currentSceneIndex + 1 < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(currentSceneIndex + 1);
+        }
+        else
+        {
+            SceneManager.LoadScene(0);
+        }
     }
 }
