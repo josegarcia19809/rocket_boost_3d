@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Bool Variable For State
+Rocket Boost 3D: Intro To Particles
 
 Fecha de creación: 6 diciembre 2025
 
@@ -13,8 +13,6 @@ Domingo 21 diciembre 2025
 Lunes 22 diciembre 2025
 Martes 23 diciembre 2025
 
-Intro To Particles
-14:45
 Trigger Booster Particles
 12:30
 Refactor Our Methods
