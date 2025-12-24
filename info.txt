@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Multiple Audio Clips
+Rocket Boost 3D: Bool Variable For State
 
 Fecha de creación: 6 diciembre 2025
 
@@ -11,9 +11,8 @@ Miércoles 17 diciembre 2025
 Jueves 18 diciembre 2025
 Domingo 21 diciembre 2025
 Lunes 22 diciembre 2025
+Martes 23 diciembre 2025
 
-Bool Variable For State
-10:59
 Intro To Particles
 14:45
 Trigger Booster Particles
@@ -44,5 +43,3 @@ Design Ideas
 06:33
 How To Build & Share Your Game
 07:28
-Wrap Up - Rocket Boost
-03:57
