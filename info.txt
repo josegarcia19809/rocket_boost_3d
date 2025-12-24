@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Trigger Booster Particles
+Rocket Boost 3D: Refactor Our Methods
 
 Fecha de creación: 6 diciembre 2025
 
@@ -14,10 +14,6 @@ Lunes 22 diciembre 2025
 Martes 23 diciembre 2025
 Miércoles 24 diciembre 2025
 
-
-12:30
-Refactor Our Methods
-06:02
 Respond To Debug Keys
 10:13
 Assets & Colliders
