@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Refactor Our Methods
+Rocket Boost 3D: Respond To Debug Keys
 
 Fecha de creación: 6 diciembre 2025
 
@@ -13,9 +13,8 @@ Domingo 21 diciembre 2025
 Lunes 22 diciembre 2025
 Martes 23 diciembre 2025
 Miércoles 24 diciembre 2025
+Viernes 26 diciembre 2025
 
-Respond To Debug Keys
-10:13
 Assets & Colliders
 10:53
 Create A Level Layout
