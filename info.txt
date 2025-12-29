@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Oscillating Object Script
+Rocket Boost 3D: Quit Application Script
 
 Fecha de creación: 6 diciembre 2025
 
@@ -18,4 +18,3 @@ Domingo 28 diciembre 2025
 Lunes 29 diciembre 2025
 
 
-Quit Application Script
