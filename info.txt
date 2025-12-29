@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Quit Application Script
+Rocket Boost 3D: Finish
 
 Fecha de creación: 6 diciembre 2025
 
@@ -17,4 +17,4 @@ Viernes 26 diciembre 2025
 Domingo 28 diciembre 2025
 Lunes 29 diciembre 2025
 
-
+Fecha de término: Lunes 29 diciembre 2025
