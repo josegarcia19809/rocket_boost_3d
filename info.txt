@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Set Dressing Your Level && Post Processing
+Rocket Boost 3D: Oscillating Object Script
 
 Fecha de creación: 6 diciembre 2025
 
@@ -15,16 +15,7 @@ Martes 23 diciembre 2025
 Miércoles 24 diciembre 2025
 Viernes 26 diciembre 2025
 Domingo 28 diciembre 2025
+Lunes 29 diciembre 2025
 
-How To Add Lights In Unity
-14:54
-A Quick Note About Prefabbing
-09:10
-Oscillating Object Script
-14:55
+
 Quit Application Script
-03:20
-Design Ideas
-06:33
-How To Build & Share Your Game
-07:28
