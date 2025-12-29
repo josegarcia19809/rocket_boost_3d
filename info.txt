@@ -1,6 +1,6 @@
 Complete C# Unity 3D Game Development in Unity 6
 
-Rocket Boost 3D: Respond To Debug Keys
+Rocket Boost 3D: Set Dressing Your Level && Post Processing
 
 Fecha de creación: 6 diciembre 2025
 
@@ -14,17 +14,8 @@ Lunes 22 diciembre 2025
 Martes 23 diciembre 2025
 Miércoles 24 diciembre 2025
 Viernes 26 diciembre 2025
+Domingo 28 diciembre 2025
 
-Assets & Colliders
-10:53
-Create A Level Layout
-11:08
-Quick Game Tuning
-06:34
-Set Dressing Your Level
-12:22
-Intro To Post Processing
-06:25
 How To Add Lights In Unity
 14:54
 A Quick Note About Prefabbing
